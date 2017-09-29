@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_drawer.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-mdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\drawer_shadow.9.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-mdpi\\drawer_shadow.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]

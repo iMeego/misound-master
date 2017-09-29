@@ -1,0 +1,662 @@
+[
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_page_icon_xiaomisound_connect.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\home_page_icon_xiaomisound_connect.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_page_next_song_icon.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\home_page_next_song_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\sound_style_icon_xiaomisound_tv.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\sound_style_icon_xiaomisound_tv.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\setting_button_xiaomisound_subwoofer_volume_pressed.9.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\setting_button_xiaomisound_subwoofer_volume_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\sound_style_icon_xiaomisound_rock.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\sound_style_icon_xiaomisound_rock.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\local_music_random_icon.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\local_music_random_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_page_button_xiaomisound_upgrade_progress_not_selected_03.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\home_page_button_xiaomisound_upgrade_progress_not_selected_03.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_page_pic_xiaomisound_bassstrength_pressed.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\home_page_pic_xiaomisound_bassstrength_pressed.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\sound_style_icon_xiaomisound_custom_selected.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\sound_style_icon_xiaomisound_custom_selected.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\feedback_button_feedback.9.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\feedback_button_feedback.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_page_pic_xiaomisound_audio.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\home_page_pic_xiaomisound_audio.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_page_button_xiaomisound_jazz.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\home_page_button_xiaomisound_jazz.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_page_button_xiaomisound_class.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\home_page_button_xiaomisound_class.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_page_button_xiaomisound_movie.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\home_page_button_xiaomisound_movie.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\popup_window_next_icon.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\popup_window_next_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\custom_settings_equalizer_pic_xiaomisound_equalizer_circle.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\custom_settings_equalizer_pic_xiaomisound_equalizer_circle.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\custom_settings_equalizer_pic_equalizer.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\custom_settings_equalizer_pic_equalizer.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_page_button_xiaomisound_rock.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\home_page_button_xiaomisound_rock.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\popup_window_stop_icon.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\popup_window_stop_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_page_icon_xiaomisound_upgrade_remind.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\home_page_icon_xiaomisound_upgrade_remind.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_page_button_xiaomisound_tv.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\home_page_button_xiaomisound_tv.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\upgrade_button.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\upgrade_button.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\pic_point.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\pic_point.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\sound_style_icon_xiaomisound_jazz.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\sound_style_icon_xiaomisound_jazz.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\setting_button_subwoofer_volume_reset.9.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\setting_button_subwoofer_volume_reset.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\setting_hint_button_remind_reset_right.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\setting_hint_button_remind_reset_right.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\connection_problems_pic_xiaomisound_point.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\connection_problems_pic_xiaomisound_point.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_page_xiaomisound_song_list_pressed_icon.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\home_page_xiaomisound_song_list_pressed_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_page_button_xiaomisound_style_selected.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\home_page_button_xiaomisound_style_selected.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\feedback_button_xiaomisound_feedback_pressed.9.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\feedback_button_xiaomisound_feedback_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\fault_diagnosis_pic_xiaomisound_q.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\fault_diagnosis_pic_xiaomisound_q.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\sound_style_icon_xiaomisound_movie_selected.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\sound_style_icon_xiaomisound_movie_selected.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\fault_diagnosis_pic_xiaomisound_a_connect.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\fault_diagnosis_pic_xiaomisound_a_connect.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_page_button_volume_control_pressed.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\home_page_button_volume_control_pressed.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\fault_diagnosis_pic_xiaomisound_bbs.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\fault_diagnosis_pic_xiaomisound_bbs.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\diagnosis_problem_item_pressed_pic.9.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\diagnosis_problem_item_pressed_pic.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\local_music_letter_bg.9.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\local_music_letter_bg.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_page_pressed_icon.9.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\home_page_pressed_icon.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\popup_window_stop_pressed_icon.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\popup_window_stop_pressed_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_page_button_volume_control.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\home_page_button_volume_control.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\setting_pic_subwoofer_volume_horn.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\setting_pic_subwoofer_volume_horn.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\setting_hint_button_remind_reset_right_pressed.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\setting_hint_button_remind_reset_right_pressed.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\local_music_tab_bar_bg_pressed.9.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\local_music_tab_bar_bg_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\fault_diagnosis_pic_xiaomisound_bbs_pressed.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\fault_diagnosis_pic_xiaomisound_bbs_pressed.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\fault_diagnosis_pic_xiaomisound_aq.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\fault_diagnosis_pic_xiaomisound_aq.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\equipment_selection_page_icon_selected.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\equipment_selection_page_icon_selected.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\sound_style_pic_xiaomisound_top_horn.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\sound_style_pic_xiaomisound_top_horn.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\setting_botton_subwoofer_volume_selected.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\setting_botton_subwoofer_volume_selected.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\custom_settings_sound_button_top_left.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\custom_settings_sound_button_top_left.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\local_music_line_pressed.9.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\local_music_line_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_page_button_xiaomisound_set_up_selected.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\home_page_button_xiaomisound_set_up_selected.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\custom_settings_sound_button_reset_top_pressed.9.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\custom_settings_sound_button_reset_top_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\sound_style_icon_xiaomisound_movie.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\sound_style_icon_xiaomisound_movie.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\local_music_letter_presst.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\local_music_letter_presst.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\feedback_button_imal_left_pressed.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\feedback_button_imal_left_pressed.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\feedback_button_feedback_pressed.9.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\feedback_button_feedback_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\custom_settings_equalizer_bg_equalizer.9.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\custom_settings_equalizer_bg_equalizer.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\setting_loading.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\setting_loading.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\search_icon_xiaomisound_no_box.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\search_icon_xiaomisound_no_box.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_page_stop_icon.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\home_page_stop_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_page_stop_pressed_icon.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\home_page_stop_pressed_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_music_cover.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\home_music_cover.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\search_halation_bg.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\search_halation_bg.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\sound_style_icon_xiaomisound_jazz_selected.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\sound_style_icon_xiaomisound_jazz_selected.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\fault_diagnosis_pic_xiaomisound_s_pressed.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\fault_diagnosis_pic_xiaomisound_s_pressed.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_page_xiaomisound_upgrade_icon.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\home_page_xiaomisound_upgrade_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\search_button_xiaomisound_failure.9.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\search_button_xiaomisound_failure.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\sound_style_icon_xiaomisound_class_selected.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\sound_style_icon_xiaomisound_class_selected.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_page_pic_volume_control_a.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\home_page_pic_volume_control_a.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\sound_style_icon_xiaomisound_selected.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\sound_style_icon_xiaomisound_selected.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\upgrade_page_icon_xiaomisound_update_successful.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\upgrade_page_icon_xiaomisound_update_successful.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\sound_style_icon_xiaomisound_rock_selected.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\sound_style_icon_xiaomisound_rock_selected.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\popup_window_paly_icon.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\popup_window_paly_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\fault_diagnosis_pic_xiaomisound_a_connect_pressed.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\fault_diagnosis_pic_xiaomisound_a_connect_pressed.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\feedback_bg.9.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\feedback_bg.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\custom_settings_equalizer_pic_equalizer_bl.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\custom_settings_equalizer_pic_equalizer_bl.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_page_button_xiaomisound_upgrade_selected.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\home_page_button_xiaomisound_upgrade_selected.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\setting_pic_subwoofer_volume.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\setting_pic_subwoofer_volume.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\setting_button_subwoofer_volume_reset_pressed.9.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\setting_button_subwoofer_volume_reset_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\sound_style_icon_xiaomisound_tv_selected.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\sound_style_icon_xiaomisound_tv_selected.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_page_button_xiaomisound_diagnose_selected.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\home_page_button_xiaomisound_diagnose_selected.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_page_button_xiaomisound_upgrade_progress_not_selected.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\home_page_button_xiaomisound_upgrade_progress_not_selected.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_page_xiaomisound_style_icon.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\home_page_xiaomisound_style_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\custom_settings_sound_button_top_right_pressed.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\custom_settings_sound_button_top_right_pressed.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_page_button_xiaomisound_diagnose_not_selected.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\home_page_button_xiaomisound_diagnose_not_selected.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_page_button_xiaomisound_pop.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\home_page_button_xiaomisound_pop.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_page_button_xiaomisound_style_not_selected.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\home_page_button_xiaomisound_style_not_selected.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\setting_hint_button_remind_reset_left.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\setting_hint_button_remind_reset_left.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\sound_style_icon_xiaomisound_pop.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\sound_style_icon_xiaomisound_pop.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\fault_diagnosis_pic_xiaomisound_q_pressed.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\fault_diagnosis_pic_xiaomisound_q_pressed.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\seting_bg_set_up.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\seting_bg_set_up.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\setting_button_subwoofer_volume_selected.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\setting_button_subwoofer_volume_selected.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_page_pic_pic_xiaomisound_circle_b.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\home_page_pic_pic_xiaomisound_circle_b.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_page_button_xiaomisound_custom.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\home_page_button_xiaomisound_custom.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_page_button_xiaomisound_upgrade_selected_wuzi.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\home_page_button_xiaomisound_upgrade_selected_wuzi.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\custom_settings_sound_button_top_right.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\custom_settings_sound_button_top_right.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\upgrade_page_icon_xiaomisound_update_failure.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\upgrade_page_icon_xiaomisound_update_failure.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_page_bg_xiaomisound_switch_the_input_source.9.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\home_page_bg_xiaomisound_switch_the_input_source.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_page_button_xiaomisound_upgrade_not_selected.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\home_page_button_xiaomisound_upgrade_not_selected.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\sound_style_icon_xiaomisound_pop_selected.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\sound_style_icon_xiaomisound_pop_selected.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_page_button_xiaomisound_standard.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\home_page_button_xiaomisound_standard.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\setting_button_xiaomisound_subwoofer_volume.9.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\setting_button_xiaomisound_subwoofer_volume.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\custom_settings_sound_pic_custom.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\custom_settings_sound_pic_custom.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\search_icon_xiaomisound_box.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\search_icon_xiaomisound_box.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\connection_problems_pic_xiaomisound_point_huise.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\connection_problems_pic_xiaomisound_point_huise.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\custom_settings_sound_button_reset_top.9.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\custom_settings_sound_button_reset_top.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\local_music_line.9.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\local_music_line.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_page_button_xiaomisound_upgrade_progress.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\home_page_button_xiaomisound_upgrade_progress.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\list_music_cover.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\list_music_cover.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\sound_style_icon_xiaomisound_standard_selected.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\sound_style_icon_xiaomisound_standard_selected.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\setting_button_subwoofer_volume_not_selected.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\setting_button_subwoofer_volume_not_selected.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_page_button_xiaomisound_standard_unavailable.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\home_page_button_xiaomisound_standard_unavailable.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\button_research_pressed.9.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\button_research_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\button_research.9.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\button_research.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\popup_window_cancel_icon.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\popup_window_cancel_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\feedback_button_imal_left.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\feedback_button_imal_left.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\feedback_button_xiaomisound_feedback.9.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\feedback_button_xiaomisound_feedback.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_page_xiaomisound_diagnose_icon.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\home_page_xiaomisound_diagnose_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\fault_diagnosis_pic_xiaomisound_a_pressed.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\fault_diagnosis_pic_xiaomisound_a_pressed.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\popup_window_cancel_pressed_icon.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\popup_window_cancel_pressed_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_page_bar_pic.9.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\home_page_bar_pic.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_page_pic_xiaomisound_bassstrength.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\home_page_pic_xiaomisound_bassstrength.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_page_button_xiaomisound_set_up_not_selected.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\home_page_button_xiaomisound_set_up_not_selected.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_page_loading.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\home_page_loading.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\connection_problems_button_pressed.9.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\connection_problems_button_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_page_pic_lock_pressed.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\home_page_pic_lock_pressed.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\setting_button_xiaomisound_switcher.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\setting_button_xiaomisound_switcher.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_icon_slient.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\home_icon_slient.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\feedback_button_imal_right_pressed.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\feedback_button_imal_right_pressed.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\mi_music.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\mi_music.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\setting_hint_button_remind_reset_left_pressed.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\setting_hint_button_remind_reset_left_pressed.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\custom_settings_sound_button_top_left_pressed.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\custom_settings_sound_button_top_left_pressed.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\fault_diagnosis_pic_xiaomisound_s.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\fault_diagnosis_pic_xiaomisound_s.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\custom_settings_sound_button_equalizer.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\custom_settings_sound_button_equalizer.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\search_button_xiaomisound_failure_pressed.9.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\search_button_xiaomisound_failure_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_page_icon_xiaomisound_not_connect.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\home_page_icon_xiaomisound_not_connect.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\feedback_button_imal_right.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\feedback_button_imal_right.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\upgrade_button_pressed.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\upgrade_button_pressed.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\local_music_random_pressed_icon.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\local_music_random_pressed_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_music_list_play.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\icon_music_list_play.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\connection_problems_pic_xiaomisound_lose_efficacy.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\connection_problems_pic_xiaomisound_lose_efficacy.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_page_play_pressed_icon.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\home_page_play_pressed_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\popup_window_next_pressed_icon.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\popup_window_next_pressed_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\setting_button_subwoofer_volume.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\setting_button_subwoofer_volume.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_page_next_song_pressed_icon.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\home_page_next_song_pressed_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_page_pic_volume_control_b.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\home_page_pic_volume_control_b.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\local_music_tab_bar_bg.9.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\local_music_tab_bar_bg.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_page_play_icon.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\home_page_play_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\popup_window_paly_pressed_icon.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\popup_window_paly_pressed_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\button_xiaomisound_top_01.9.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\button_xiaomisound_top_01.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\connection_problems_button.9.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\connection_problems_button.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\sound_style_icon_xiaomisound_custom.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\sound_style_icon_xiaomisound_custom.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\sound_style_icon_xiaomisound_class.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\sound_style_icon_xiaomisound_class.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_page_pic_pic_xiaomisound_circle_a.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\home_page_pic_pic_xiaomisound_circle_a.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_page_xiaomisound_set_up_icon.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\home_page_xiaomisound_set_up_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_page_xiaomisound_song_list_icon.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\home_page_xiaomisound_song_list_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_page_upgrade_remind_pic.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\home_page_upgrade_remind_pic.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\diagnosis_problem_item_pic.9.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\diagnosis_problem_item_pic.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\fault_diagnosis_pic_xiaomisound_a.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\fault_diagnosis_pic_xiaomisound_a.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\setting_pic_subwoofer_volume_bl.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\setting_pic_subwoofer_volume_bl.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_page_pic_lock.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\home_page_pic_lock.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\sound_style_icon_xiaomisound_standard.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\sound_style_icon_xiaomisound_standard.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\fault_diagnosis_pic_xiaomisound_aq_pressed.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\fault_diagnosis_pic_xiaomisound_aq_pressed.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\custom_settings_equalizer_button.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-xhdpi\\custom_settings_equalizer_button.png"
+    }
+]

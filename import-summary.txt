@@ -1,0 +1,97 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .idea\
+* .idea\.name
+* .idea\compiler.xml
+* .idea\copyright\
+* .idea\copyright\profiles_settings.xml
+* .idea\encodings.xml
+* .idea\libraries\
+* .idea\libraries\libs.xml
+* .idea\libraries\mibar_core.xml
+* .idea\misc.xml
+* .idea\misoundbar.iml
+* .idea\modules.xml
+* .idea\scopes\
+* .idea\scopes\scope_settings.xml
+* .idea\vcs.xml
+* .idea\workspace.xml
+* LICENSE
+* README.md
+* ant.properties
+* build.xml
+* help\
+* help\diagnosis.jpg
+* help\eq.jpg
+* help\panel.jpg
+* help\playlist.jpg
+* misoundbar.iml
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:19.1.0
+android-support-v7-appcompat.jar => com.android.support:appcompat-v7:19.1.0
+gson-2.2.4.jar => com.google.code.gson:gson:2.2.4
+
+Potentially Missing Dependency:
+-------------------------------
+When we replaced the following .jar files with a Gradle dependency, we
+inferred the dependency version number from the filename. This
+specific version may not actually be available from the repository.
+If you get a build error stating that the dependency is missing, edit
+the version number to for example "+" to pick up the latest version
+instead. (This may require you to update your code if the library APIs
+have changed.)
+
+gson-2.2.4.jar => version 2.2.4 in com.google.code.gson:gson:2.2.4
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets\
+* libs\android-async-http-1.4.5.jar => app\libs\android-async-http-1.4.5.jar
+* libs\armeabi\libbspatch.so => app\src\main\jniLibs\armeabi\libbspatch.so
+* libs\armeabi\libsdk_patcher_jni.so => app\src\main\jniLibs\armeabi\libsdk_patcher_jni.so
+* libs\galaxy-sdk-android-1.0.0_140124_00.jar => app\libs\galaxy-sdk-android-1.0.0_140124_00.jar
+* libs\mibar-core.jar => app\libs\mibar-core.jar
+* libs\umeng-analytics-v5.2.3.jar => app\libs\umeng-analytics-v5.2.3.jar
+* libs\umeng-fb-v4.3.2.jar => app\libs\umeng-fb-v4.3.2.jar
+* libs\umeng-update-v2.4.2.jar => app\libs\umeng-update-v2.4.2.jar
+* libs\xiaomi_sdk.jar => app\libs\xiaomi_sdk.jar
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+* src\com\xiaomi\mitv\soundbarapp\player\IPlayerService.aidl => app\src\main\aidl\com\xiaomi\mitv\soundbarapp\player\IPlayerService.aidl
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

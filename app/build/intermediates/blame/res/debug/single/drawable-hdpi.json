@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_item_drop_down.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-hdpi\\ic_item_drop_down.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\umeng_update_btn_check_off_pressed_holo_light.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-hdpi\\umeng_update_btn_check_off_pressed_holo_light.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\umeng_update_close_bg_tap.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-hdpi\\umeng_update_close_bg_tap.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\umeng_update_btn_check_on_pressed_holo_light.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-hdpi\\umeng_update_btn_check_on_pressed_holo_light.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\umeng_update_btn_check_off_focused_holo_light.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-hdpi\\umeng_update_btn_check_off_focused_holo_light.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\umeng_update_close_bg_normal.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-hdpi\\umeng_update_close_bg_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\umeng_update_btn_check_on_focused_holo_light.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-hdpi\\umeng_update_btn_check_on_focused_holo_light.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\drawer_shadow.9.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-hdpi\\drawer_shadow.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\stat_player.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-hdpi\\stat_player.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\line.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-hdpi\\line.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_drawer.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-hdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\button.9.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-hdpi\\button.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\umeng_update_btn_check_on_holo_light.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-hdpi\\umeng_update_btn_check_on_holo_light.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\umeng_update_btn_check_off_holo_light.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-hdpi\\umeng_update_btn_check_off_holo_light.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\progress_bar.9.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-hdpi\\progress_bar.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\button_cancle.9.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-hdpi\\button_cancle.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\button_green_pressed.9.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable-hdpi\\button_green_pressed.9.png"
+    }
+]

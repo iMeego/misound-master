@@ -1,0 +1,530 @@
+[
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Meego\\.android\\build-cache\\7fca6062fcd18ca120dbaf6500be45b22fa63321\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_common_gradient_orange.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\umeng_common_gradient_orange.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Meego\\.android\\build-cache\\7fca6062fcd18ca120dbaf6500be45b22fa63321\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\diagnosis_no_sound.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\diagnosis_no_sound.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_fb_submit_selector.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\umeng_fb_submit_selector.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_safety.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\ic_safety.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_fb_gradient_green.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\umeng_fb_gradient_green.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_eq_style_rock.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\ic_eq_style_rock.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_fb_see_list_normal.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\umeng_fb_see_list_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Meego\\.android\\build-cache\\7fca6062fcd18ca120dbaf6500be45b22fa63321\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fix_1.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\fix_1.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Meego\\.android\\build-cache\\7fca6062fcd18ca120dbaf6500be45b22fa63321\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_master_reset_right.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\btn_master_reset_right.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_fb_see_list_selector.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\umeng_fb_see_list_selector.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_setting_reset.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\btn_setting_reset.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seeker_woofer_vol_normal.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\seeker_woofer_vol_normal.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Meego\\.android\\build-cache\\7fca6062fcd18ca120dbaf6500be45b22fa63321\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_ok_bg_tap.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\umeng_update_button_ok_bg_tap.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_fb_point_normal.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\umeng_fb_point_normal.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_fb_tick_normal.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\umeng_fb_tick_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_fb_see_list_pressed.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\umeng_fb_see_list_pressed.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_bar_small.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\progress_bar_small.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\diagnosis_list_item_bg.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\diagnosis_list_item_bg.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Meego\\.android\\build-cache\\7fca6062fcd18ca120dbaf6500be45b22fa63321\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Meego\\.android\\build-cache\\7fca6062fcd18ca120dbaf6500be45b22fa63321\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\diagnosis_qa.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\diagnosis_qa.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_check_selector.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\umeng_update_button_check_selector.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Meego\\.android\\build-cache\\7fca6062fcd18ca120dbaf6500be45b22fa63321\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_fb_reply_right_bg.9.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\umeng_fb_reply_right_bg.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rate_woofer_vol.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\rate_woofer_vol.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Meego\\.android\\build-cache\\7fca6062fcd18ca120dbaf6500be45b22fa63321\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_eq_style_standard.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\ic_eq_style_standard.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_media_list.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\ic_media_list.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_fb_write_normal.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\umeng_fb_write_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_fb_top_banner.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\umeng_fb_top_banner.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Meego\\.android\\build-cache\\7fca6062fcd18ca120dbaf6500be45b22fa63321\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_eq_style_custom.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\ic_eq_style_custom.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Meego\\.android\\build-cache\\7fca6062fcd18ca120dbaf6500be45b22fa63321\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Meego\\.android\\build-cache\\7fca6062fcd18ca120dbaf6500be45b22fa63321\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_switcher.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\btn_switcher.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Meego\\.android\\build-cache\\7fca6062fcd18ca120dbaf6500be45b22fa63321\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Meego\\.android\\build-cache\\7fca6062fcd18ca120dbaf6500be45b22fa63321\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_reconnect.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\btn_reconnect.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_media_status_pause.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\ic_media_status_pause.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_fb_arrow_right.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\umeng_fb_arrow_right.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Meego\\.android\\build-cache\\7fca6062fcd18ca120dbaf6500be45b22fa63321\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_eq_style_movie.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\ic_eq_style_movie.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Meego\\.android\\build-cache\\7fca6062fcd18ca120dbaf6500be45b22fa63321\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Meego\\.android\\build-cache\\7fca6062fcd18ca120dbaf6500be45b22fa63321\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_fb_user_bubble.9.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\umeng_fb_user_bubble.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_ok_bg_selector.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\umeng_update_button_ok_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_close_bg_selector.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\umeng_update_button_close_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_fb_list_item_selector.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\umeng_fb_list_item_selector.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Meego\\.android\\build-cache\\7fca6062fcd18ca120dbaf6500be45b22fa63321\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Meego\\.android\\build-cache\\7fca6062fcd18ca120dbaf6500be45b22fa63321\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_fb_reply_left_bg.9.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\umeng_fb_reply_left_bg.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\entry_button_bg.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\entry_button_bg.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Meego\\.android\\build-cache\\7fca6062fcd18ca120dbaf6500be45b22fa63321\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_fb_list_item_pressed.9.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\umeng_fb_list_item_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Meego\\.android\\build-cache\\7fca6062fcd18ca120dbaf6500be45b22fa63321\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_fb_point_new.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\umeng_fb_point_new.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Meego\\.android\\build-cache\\7fca6062fcd18ca120dbaf6500be45b22fa63321\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_title_bg.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\umeng_update_title_bg.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Meego\\.android\\build-cache\\7fca6062fcd18ca120dbaf6500be45b22fa63321\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_playlist_tab.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\bg_playlist_tab.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Meego\\.android\\build-cache\\7fca6062fcd18ca120dbaf6500be45b22fa63321\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_feedback_submit.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\btn_feedback_submit.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Meego\\.android\\build-cache\\7fca6062fcd18ca120dbaf6500be45b22fa63321\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Meego\\.android\\build-cache\\7fca6062fcd18ca120dbaf6500be45b22fa63321\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seeker_player_progress.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\seeker_player_progress.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\diagnosis_upgrade.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\diagnosis_upgrade.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_media_status_play.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\ic_media_status_play.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_media_next.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\ic_media_next.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Meego\\.android\\build-cache\\7fca6062fcd18ca120dbaf6500be45b22fa63321\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_cancel_bg_tap.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\umeng_update_button_cancel_bg_tap.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_ok_bg_normal.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\umeng_update_button_ok_bg_normal.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_fb_tick_selector.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\umeng_fb_tick_selector.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_fb_statusbar_icon.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\umeng_fb_statusbar_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_media_play.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\ic_media_play.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Meego\\.android\\build-cache\\7fca6062fcd18ca120dbaf6500be45b22fa63321\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\diagnosis_quality.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\diagnosis_quality.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Meego\\.android\\build-cache\\7fca6062fcd18ca120dbaf6500be45b22fa63321\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Meego\\.android\\build-cache\\7fca6062fcd18ca120dbaf6500be45b22fa63321\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_cancel_bg_normal.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\umeng_update_button_cancel_bg_normal.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_fb_write_pressed.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\umeng_fb_write_pressed.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_bar_default.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\progress_bar_default.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_fb_gray_frame.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\umeng_fb_gray_frame.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\diagnosis_bbs.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\diagnosis_bbs.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Meego\\.android\\build-cache\\7fca6062fcd18ca120dbaf6500be45b22fa63321\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_add_img.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\ic_add_img.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_playlist_item.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\bg_playlist_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_media_status_next.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\ic_media_status_next.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Meego\\.android\\build-cache\\7fca6062fcd18ca120dbaf6500be45b22fa63321\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_ok_bg_focused.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\umeng_update_button_ok_bg_focused.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_common_gradient_green.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\umeng_common_gradient_green.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_media_status_quit.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\ic_media_status_quit.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_cancel_bg_selector.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\umeng_update_button_cancel_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_eq_style_tv.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\ic_eq_style_tv.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_fb_write_selector.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\umeng_fb_write_selector.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_fb_conversation_bg.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\umeng_fb_conversation_bg.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_fb_tick_selected.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\umeng_fb_tick_selected.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_cancel_bg_focused.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\umeng_update_button_cancel_bg_focused.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\feedback_bg_left.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\feedback_bg_left.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_wifi_disable.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\umeng_update_wifi_disable.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_media_pause.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\ic_media_pause.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_fb_logo.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\umeng_fb_logo.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_def.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\btn_def.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_fb_gradient_orange.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\umeng_fb_gradient_orange.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Meego\\.android\\build-cache\\7fca6062fcd18ca120dbaf6500be45b22fa63321\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\diagnosis_connect.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\diagnosis_connect.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Meego\\.android\\build-cache\\7fca6062fcd18ca120dbaf6500be45b22fa63321\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_fb_bar_bg.9.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\umeng_fb_bar_bg.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_eq_style_pop.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\ic_eq_style_pop.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Meego\\.android\\build-cache\\7fca6062fcd18ca120dbaf6500be45b22fa63321\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_bar_black.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\progress_bar_black.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Meego\\.android\\build-cache\\7fca6062fcd18ca120dbaf6500be45b22fa63321\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_bar_upgarde.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\progress_bar_upgarde.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Meego\\.android\\build-cache\\7fca6062fcd18ca120dbaf6500be45b22fa63321\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_eq_style_jazz.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\ic_eq_style_jazz.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Meego\\.android\\build-cache\\7fca6062fcd18ca120dbaf6500be45b22fa63321\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_dialog_bg.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\umeng_update_dialog_bg.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\feedback_bg_right.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\feedback_bg_right.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_fb_list_item.9.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\umeng_fb_list_item.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_fb_back_normal.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\umeng_fb_back_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_fb_btn_bg_selector.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\umeng_fb_btn_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_fb_back_selected.png",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\umeng_fb_back_selected.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_master_reset_left.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\btn_master_reset_left.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_eq_style_class.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\ic_eq_style_class.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_fb_back_selector.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\umeng_fb_back_selector.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_common_gradient_red.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\umeng_common_gradient_red.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_play_mode_switch.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\btn_play_mode_switch.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\misound-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_input_source.xml",
+        "source": "E:\\Android\\workspace\\misound-master\\app\\src\\main\\res\\drawable\\btn_input_source.xml"
+    }
+]

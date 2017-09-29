@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:id="@+id/upgrade_button"
+              android:orientation="vertical"
+              android:background="@drawable/entry_button_bg"
+              android:gravity="center"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+    <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:minWidth="32.5dp"
+            android:minHeight="32.5dp">
+        <ImageView android:id="@+id/upgrade_icon"
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:layout_centerInParent="true"
+                   android:src="@drawable/home_page_xiaomisound_upgrade_icon"/>
+        <ProgressBar android:id="@+id/upgrade_checking_progress"
+                     android:visibility="gone"
+                     android:layout_width="32dp"
+                     android:layout_height="32dp"
+                     android:layout_centerInParent="true"
+                     android:indeterminateDrawable="@drawable/progress_bar_upgarde"/>
+        <TextView android:id="@+id/upgrade_progres_text"
+                  android:layout_width="wrap_content"
+                  android:textSize="@dimen/text_size_xh_54px"
+                  android:textColor="@color/upgrade_text"
+                  android:layout_centerInParent="true"
+                  android:visibility="gone"
+                  android:text="0%"
+                  android:layout_height="wrap_content"/>
+        <ImageView android:id="@+id/upgrade_reminder"
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:visibility="gone"
+                   android:layout_toRightOf="@id/upgrade_icon"
+                   android:layout_alignParentTop="true"
+                   android:src="@drawable/home_page_upgrade_remind_pic"/>
+    </RelativeLayout>
+    <TextView
+            android:id="@+id/upgarde_status_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/main_entry_text_padding"
+            android:text="@string/main_entry_upgrade"
+            android:textColor="@color/font_black_normal"
+            android:textSize="@dimen/text_size_xh_28px"/>
+</LinearLayout>
